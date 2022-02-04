@@ -20,4 +20,3 @@ ORDER BY c.cancao;
 
 -- Trocar a palavra "Circus" no final do nome de uma música por "Pull Request"
 -- https://dev.mysql.com/doc/refman/8.0/en/regexp.html REGEXP
-
